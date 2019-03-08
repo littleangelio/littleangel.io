@@ -1,7 +1,7 @@
 ---
 title: "Me"
 date: 2019-03-08T22:26:41+08:00
-draft: true
+<!-- draft: true -->
 ---
 
 张明伟
